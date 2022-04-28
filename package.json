@@ -1,0 +1,21 @@
+{
+  "name": "reverse-string-pkg",
+  "version": "1.0.0",
+  "description": "A tiny JavaScript package to reverse a string",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gzkdev/reverse-string.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gzkdev/reverse-string/issues"
+  },
+  "homepage": "https://github.com/gzkdev/reverse-string#readme"
+}
